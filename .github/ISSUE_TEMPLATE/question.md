@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Describe this issue template's purpose here.
+about: any questions you have about the Possum Lab
 title: ''
 labels: ''
 assignees: ''
